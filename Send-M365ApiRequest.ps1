@@ -60,7 +60,7 @@ This example shows how to list currently subscriptions in Management Api:
 Send-M365ApiRequest.ps1 -ClientID XYZ -TenantID XYZ -ClientSecret XYZ -Api ManagementApi -Method Get -Operation List
 
 .LINK
-
+https://github.com/deividfoggi/Send-M365ApiRequest
 #>
 
 Param(
