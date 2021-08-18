@@ -1,0 +1,2 @@
+# Send-M365ApiRequest
+Send requests to Microsoft 365 Cloud APIs. The script currently supports Graph API and Office 365 Management API. You don't need anything like libraries or SDKs to run a simple test and either confirm if an app permission is working or if a request is being returned as expected. It is necessary to have only the minimum requirement: an app registration in Azure AD with the appropriate permission to request the respective Api.
